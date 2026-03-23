@@ -74,4 +74,4 @@ require (
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 )
 
-replace github.com/charmbracelet/glamour => ../glamour
+replace github.com/charmbracelet/glamour => github.com/bn-l/glamour v0.10.1-0.20260323055533-7d368a081a4b
